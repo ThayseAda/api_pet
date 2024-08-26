@@ -1,0 +1,1 @@
+#Documento destinado à descrever as funcionabilidades do sistema
