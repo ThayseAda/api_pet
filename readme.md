@@ -27,10 +27,10 @@ O script usa um loop `while` para solicitar entrada repetidamente até que infor
 
 Este script é lançado sob a Licença MIT.
 
-## Autor
-### [Seu Nome]
-
 ## Contribuição
 ### Solicitações de Pull
 
 Se você deseja contribuir para este script, por favor fork o repositório e envie uma solicitação de pull com suas alterações.
+
+### Participantes do Grupo
+Neto, Daniel, Igor e Ary
